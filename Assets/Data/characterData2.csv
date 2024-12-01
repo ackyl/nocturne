@@ -1,0 +1,17 @@
+number,id,fullName,identity,doc.name,doc.birth,doc.nationality,doc.Id,doc.contact,doc.checkInDate,doc.checkOutDate,doc.roomType,doc.request,doc.signature,doc.scribbles
+1,character_1,Amara Smith,civilian,Amara Smith,"New York, 23 Aug 2060",American,US-548-068-082-657,#amasmith,3 Oct 2082,9 Oct 2082,Deluxe King Bed,Smoking room,TRUE,FALSE
+2,character_2,Ivan Dupont,civilian,Ivan Dupont,"Paris, 11 Aug 2057",French,FR-530-135-018-863,#ivandupont,3 Oct 2082,5 Oct 2082,Premium Queen Bed,-,TRUE,FALSE
+3,character_3,Erik Hythorne,agent,Erik Hythorne,"Oslo, 21 Jul 2056",Norwegian,NW-440-844-945-539,#erikthorne,3 Oct 2082,14 Oct 2082,Standard Twin Bed,Smoking room and two cans of beer,TRUE,FALSE
+4,character_4,Zara Elysium,civilian,Zara Elysium,"Madrid, 15 Jul 2049",Spanish,SP-289-381-612-009,#elyzara,3 Oct 2082,7 Oct 2082,Standard Queen Bed,Rooms on 11th floor,TRUE,FALSE
+5,character_5,Jaxon Valebrook,agent,Jaxon Valebrook,"Washington, 17 May 2052",USA,US-561-540-886-587,#jaxonvale,4 Oct 2082,6 Oct 2082,Premium King Bed,"Mattress, and rosemary cocktail",TRUE,FALSE
+6,character_6,Roxeanne,civilian,Roxeanne,"Auckland, 11 Feb 2067",New Zealand,NZ-824-376-422-583,#roxeanne,4 Oct 2082,11 Oct 2082,Deluxe Queen Bed,-,TRUE,FALSE
+7,character_7,Thalor Esraa,enemy,Thalor Esraa,"Alexandria, 4 Nov 2022",Egyptian,EG-422-919-853-249,#tha.lie.esraa,4 Oct 2082,5 Oct 2082,Standard Twin Bed,"French fries, crab cake, soda",TRUE,FALSE
+8,character_8,Oryn Castor,agent,Oryn Castor,"Tijuana, 1 Jul 2053",Mexican,MX-611-789-848-778,#oryncastor,4 Oct 2082,7 Oct 2082,Standard Queen Bed,"Risotto, omelette, smoothie, espresso",TRUE,FALSE
+9,character_9,Hideo Hanzo,agent,Hideo Hanzo,"Tokyo, 23 Jul 2060",Japanese,JP-107-715-709-933,#hihanzo,5 Oct 2082,9 Oct 2082,Deluxe Twin Bed,-,TRUE,FALSE
+10,character_10,Leonard Mond,enemy,Leonard Mond,"Berlin, 8 Sep 2051",German,GE-228-728-521-858,#leonardmond,5 Oct 2082,6 Oct 2082,Premium King Bed,"Ramen, tempura",TRUE,TRUE
+11,character_11,Eryn Castor,agent,Eryn Castor,"Tijuana, 1 Jul 2053",Mexican,MX-611-789-848-777,#eryncastor,5 Oct 2082,7 Oct 2082,Standard Queen Bed,"Sushi with extra wasabi, sake",TRUE,FALSE
+12,character_12,Collin Ognac,secret,Collin Ognac,"Wrexham, 20 Aug 2048",British,UK-107-715-709-933,#c.ognac,5 Oct 2082,12 Oct 2082,Standard Twin with Cribs,Champagne with no ice,TRUE,FALSE
+13,character_13,Kael Parker,enemy,Kael Parker,"New York, 22 Aug 2060",American,US-844-264-088-464,#kaelparker,6 Oct 2082,8 Oct 2082,Deluxe Twin Bed,Burger with Sunny Side Egg,TRUE,FALSE
+14,character_14,Catarina Bleu,enemy,Catarina Bleu,"Frankfurt, 8 Apr 2044",German,GE-228-628-424-868,#catarinableu,6 Oct 2082,10 Oct 2082,Premium Twin Bed,"Room with sunrise view, on the 8th floor",TRUE,FALSE
+15,character_15,Thome d'Cloon,enemy,Thome d'Cloon,"Wellington, 20 Oct 2048",New Zealander,NZ-622-248-848-666,#clooooonnn,6 Oct 2082,8 Oct 2082,Standard Twin Bed,"2 donuts, 2 hotdogs, 2 cans of beer",TRUE,FALSE
+16,character_16,Park Jin Ho,enemy,Park Jin Ho,"Seoul, 12 Jun 2062",South Korean,UK-208-826-444-626,#jinhopark,6 Oct 2082,12 Oct 2082,Standard Twin Bed,Sunflower seeds and soda,TRUE,FALSE
